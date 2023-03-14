@@ -1,0 +1,6 @@
+export:
+  namespace:      changeme
+  bucketname:     changeme
+  compartmentid:  changeme
+  imageid:        changeme
+  objectname:     changeme
